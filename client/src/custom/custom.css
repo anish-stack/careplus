@@ -1,0 +1,9 @@
+.custom-slider {
+    text-align: start;
+    padding: 1.6rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100%;
+}
